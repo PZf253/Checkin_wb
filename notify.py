@@ -334,7 +334,7 @@ class Notify(object):
             return self.pushTemplate('post', url, data=data, name=name, token='token', text=text, code=code)
 
     def send(self, **kwargs):
-        app = '原神签到小助手'
+        app = '网易签到小助手'
         status = kwargs.get('status', '')
         msg = kwargs.get('msg', '')
         hide = kwargs.get('hide', '')
