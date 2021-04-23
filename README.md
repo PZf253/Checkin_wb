@@ -19,6 +19,7 @@ Checkin_wb 可以自动化为你检查忘川风华录在微博超话的签到活
 
 
 WB_COOKIE: 新浪微博的COOKIE.前往  https://m.weibo.cn 获取.
+
 KA_COOKIE: 新浪新手卡的COOKIE.前往 https://ka.sina.com.cn 获取.
 
 登录微博账号
