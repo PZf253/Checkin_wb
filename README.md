@@ -8,6 +8,22 @@
 
 Checkin_wb 可以自动化为你检查忘川风华录在微博超话的签到活动，并自动进行签到、领取激活码。
 
+## 📐部署
+
+WB_COOKIE: 新浪微博的COOKIE.前往  https://m.weibo.cn 获取.
+KA_COOKIE: 新浪新手卡的COOKIE.前往 https://ka.sina.com.cn 获取.
+
+登录微博账号
+- 按`F12`，打开`开发者工具`，找到`Network`并点击
+- 按`F5`刷新页面，按下图复制`Cookie`
+- 添加 Cookie 至 Secrets
+
+- 回到项目页面，依次点击`Settings`-->`Secrets`-->`New secret`
+
+
+- 建立名为`WB_COOKIE`和'KA_COOKIE'的 secret，值为`步骤2`中复制的`Cookie`内容，最后点击`Add secret`
+
+
 # 🔔订阅
 
 若开启订阅推送，无论成功与否，都会收到推送通知
