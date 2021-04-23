@@ -81,7 +81,6 @@ KA_COOKIE: 新浪新手卡的COOKIE.前往 https://ka.sina.com.cn 获取.
 |   PUSH_PLUS_TOKEN | ❌         |                    |   pushplus一对一推送或一对多推送的token                               |
 |   PUSH_PLUS_USER  | ❌         | 一对一推送          |   pushplus一对多推送的群组编码                                        |
 |   PUSH_CONFIG     | ❌         |                    |   JSON格式的自定义推送配置.详见 订阅-自定义推送 部分说明                |
-|   CRON_SIGNIN     | ❌         | 30 9 * * *         |   DOCKER脚本的自动签到计划任务                                        |
 
 
 
