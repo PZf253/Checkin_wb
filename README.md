@@ -1,6 +1,6 @@
 # Checkin_wb
 
-该项目为https://github.com/y1ndan/genshin-impact-helper 的修改版，将原神的微博领取活动改为另一款游戏的微博活动超话签到。
+该项目为https://github.com/y1ndan/genshin-impact-helper 的修改版，代码的绝大部分逻辑为原项目逻辑，本项目作者只对极少部分代码进行了微调。
 
 感谢@y1ndan 及 https://github.com/y1ndan/genshin-impact-helper 相关代码贡献者。
 
