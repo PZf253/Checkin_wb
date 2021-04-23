@@ -21,7 +21,7 @@ KA_COOKIE: 新浪新手卡的COOKIE.前往 https://ka.sina.com.cn 获取.
 - 回到项目页面，依次点击`Settings`-->`Secrets`-->`New secret`
 
 
-- 建立名为`WB_COOKIE`和'KA_COOKIE'的 secret，值为`步骤2`中复制的`Cookie`内容，最后点击`Add secret`
+- 建立名为`WB_COOKIE`和`KA_COOKIE`的 secret，值为`步骤2`中复制的`Cookie`内容，最后点击`Add secret`
 
 
 # 🔔订阅
